@@ -1,5 +1,5 @@
 import { db } from "../db";
-import { users } from "@db/schema";
+import { users } from "../db/schema";
 
 async function insertTestUser() {
   try {
