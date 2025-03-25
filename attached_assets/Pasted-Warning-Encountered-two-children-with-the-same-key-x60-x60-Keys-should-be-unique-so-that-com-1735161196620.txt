@@ -1,0 +1,29 @@
+Warning: Encountered two children with the same key, &#x60;&#x60;. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+    at AnimatePresence (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/framer-motion.js?v=a0ddfc65:7800:26)
+    at div
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-VZNMAICS.js?v=a0ddfc65:41:13
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-AXI2CWM2.js?v=a0ddfc65:22:15)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=a0ddfc65:326:7
+    at div
+    at Research
+    at Route (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=a0ddfc65:323:16)
+    at Switch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=a0ddfc65:379:17)
+    at main
+    at div
+    at App
+    at QueryClientProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@tanstack_react-query.js?v=a0ddfc65:2801:3)
+You're attempting to animate multiple children within AnimatePresence, but its mode is set to "wait". This will lead to odd visual behaviour.
+Warning: Encountered two children with the same key, &#x60;&#x60;. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+    at AnimatePresence (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/framer-motion.js?v=a0ddfc65:7800:26)
+    at div
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-VZNMAICS.js?v=a0ddfc65:41:13
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-AXI2CWM2.js?v=a0ddfc65:22:15)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=a0ddfc65:326:7
+    at div
+    at Research
+    at Route (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=a0ddfc65:323:16)
+    at Switch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=a0ddfc65:379:17)
+    at main
+    at div
+    at App
+    at QueryClientProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@tanstack_react-query.js?v=a0ddfc65:2801:3)

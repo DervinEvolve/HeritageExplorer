@@ -1,0 +1,69 @@
+Warning: validateDOMNesting(...): <a> cannot appear as a descendant of &lt;a&gt;.
+    at a
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:155:15
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:729:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:407:13
+    at a
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=39e9e87a:337:18
+    at li
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-AXI2CWM2.js?v=8651f73a:22:15)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:280:13
+    at ul
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:144:15
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:74:15)
+    at CollectionProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:135:13)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:720:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:144:15
+    at div
+    at…
+at a
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:155:15
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:729:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:407:13
+at a
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=39e9e87a:337:18
+at li
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-AXI2CWM2.js?v=8651f73a:22:15)
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:280:13
+at ul
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=8651f73a:41:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:144:15
+at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:74:15)
+at CollectionProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:135:13)
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=dd14d3dc:720:13
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:52:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-DKHUMOWT.js?v=8651f73a:33:11
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-E2ZLTFBY.js?v=8651f73a:144:15
+at div
+at…
+at t.value (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400

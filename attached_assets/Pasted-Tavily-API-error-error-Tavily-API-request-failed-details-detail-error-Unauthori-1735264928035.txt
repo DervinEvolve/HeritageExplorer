@@ -1,0 +1,37 @@
+Tavily API error: {"error":"Tavily API request failed","details":"{\"detail\":{\"error\":\"Unauthorized\"}}"}
+Tavily API error: 
+Error {}
+message: "{"error":"Tavily API request failed","details":"{\"detail\":{\"error\":\"Unauthorized\"}}"}"
+stack: "Error: {"error":"Tavily API request failed","details":"{\"detail\":{\"error\":\"Unauthorized\"}}"}↵ at searchTavily (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/tavily.ts:28:13)↵ at async enrichDocumentsWithTavilyImages (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:57:27)↵ at async askPerplexity (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:160:19)↵ at async handleSearch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/components/SearchInterface.tsx:59:22)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+Failed to enrich documents with images: 
+Error {}
+message: "{"error":"Tavily API request failed","details":"{\"detail\":{\"error\":\"Unauthorized\"}}"}"
+stack: "Error: {"error":"Tavily API request failed","details":"{\"detail\":{\"error\":\"Unauthorized\"}}"}↵ at searchTavily (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/tavily.ts:28:13)↵ at async enrichDocumentsWithTavilyImages (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:57:27)↵ at async askPerplexity (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:160:19)↵ at async handleSearch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/components/SearchInterface.tsx:59:22)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+Using fallback images for all documents
+Using fallback image for document doc-1 of type manuscript
+Using fallback image for document doc-2 of type manuscript
+Using fallback image for document doc-3 of type record
+Perplexity API error: 
+ReferenceError {}
+message: "processedContent is not defined"
+stack: "ReferenceError: processedContent is not defined↵ at askPerplexity (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:167:20)↵ at async handleSearch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/components/SearchInterface.tsx:59:22)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+Search error: 
+ReferenceError {}
+message: "processedContent is not defined"
+stack: "ReferenceError: processedContent is not defined↵ at askPerplexity (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/lib/perplexity.ts:167:20)↵ at async handleSearch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/src/components/SearchInterface.tsx:59:22)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+

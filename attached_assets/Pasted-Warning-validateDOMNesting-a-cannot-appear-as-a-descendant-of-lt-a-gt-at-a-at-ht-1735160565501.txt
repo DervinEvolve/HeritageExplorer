@@ -1,0 +1,58 @@
+Warning: validateDOMNesting(...): <a> cannot appear as a descendant of &lt;a&gt;.
+    at a
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-OD55VX3Y.js?v=91022061:112:15
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=91022061:729:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=91022061:407:13
+    at a
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=91022061:337:18
+    at li
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-ZVM5NH3P.js?v=91022061:27:15)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=91022061:280:13
+    at ul
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-OD55VX3Y.js?v=91022061:101:15
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-OD55VX3Y.js?v=91022061:31:15)
+    at CollectionProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-OD55VX3Y.js?v=91022061:92:13)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-navigation-menu.js?v=91022061:720:13
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:52:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-YAWXIER2.js?v=91022061:33:11
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-OD55VX3Y.js?v=91022061:101:15
+    at div
+    at…
+You're attempting to animate multiple children within AnimatePresence, but its mode is set to "wait". This will lead to odd visual behaviour.
+Warning: Encountered two children with the same key, &#x60;&#x60;. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+    at AnimatePresence (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/framer-motion.js?v=91022061:7800:26)
+    at div
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-WRJKZFZG.js?v=91022061:41:13
+    at Provider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/chunk-ZVM5NH3P.js?v=91022061:27:15)
+    at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=91022061:326:7
+    at div
+    at Research
+    at Route (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=91022061:323:16)
+    at Switch (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/wouter.js?v=91022061:379:17)
+    at main
+    at div
+    at App
+    at QueryClientProvider (https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/@tanstack_react-query.js?v=91022061:2801:3)
+Warning: Setting up fake worker.
+Uncaught TypeError: Failed to fetch dynamically imported module: https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.worker.min.js
+File processing error: 
+Error {}
+message: "Setting up fake worker failed: "Failed to fetch dynamically imported module: https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.worker.min.js?import"."
+stack: "Error: Setting up fake worker failed: "Failed to fetch dynamically imported module: https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.worker.min.js?import".↵ at https://bd4b07c3-af39-47e1-b50b-34f0972ceead-00-3i0fezsvxtl51.spock.replit.dev/@fs/home/runner/HeritageExplorer/node_modules/.vite/deps/pdfjs-dist.js?v=91022061:12292:36"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+

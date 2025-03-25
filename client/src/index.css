@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-white text-gray-900;
+  }
+
+  h1, h2, h3 {
+    @apply text-gray-900;
+  }
+}
+
+@layer components {
+  .nav-item {
+    @apply text-gray-700 hover:text-gray-900 transition-colors duration-200;
+  }
+
+  .search-input {
+    @apply px-4 py-2 w-full text-gray-900 bg-white 
+           placeholder:text-gray-500
+           border border-gray-200
+           focus:outline-none focus:border-[rgb(27,185,177)]
+           focus:ring-1 focus:ring-[rgb(27,185,177)]
+           rounded-lg
+           transition-all duration-200 shadow-sm;
+  }
+
+  .search-button {
+    @apply px-6 py-2 bg-[rgb(27,185,177)] text-white 
+           rounded-lg hover:bg-[rgb(24,166,159)]
+           transition-colors duration-200;
+  }
+
+  .dropdown-trigger {
+    @apply px-4 py-2 text-gray-700 bg-white 
+           border border-gray-200 rounded-lg
+           hover:border-gray-300
+           transition-colors duration-200 shadow-sm;
+  }
+  .card {
+    @apply bg-white shadow-md rounded-lg p-4;
+  }
+  .input {
+    @apply bg-white border border-gray-200 rounded-lg px-4 py-2 shadow-sm focus:outline-none focus:border-gray-400;
+
+  }
+
+}
+
+/* Suisse Int'l Mono font */
+@font-face {
+  font-family: 'Suisse Intl Mono';
+  src: local('Suisse Intl Mono'),
+       url('/fonts/SuisseIntlMono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
