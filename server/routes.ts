@@ -1,5 +1,11 @@
 import type { Express } from "express";
 import { createServer, type Server } from "http";
+import multer from "multer";
+import path from "path";
+import fs from "fs";
+import { db } from "../db";
+import { users } from "@db/schema";
+import { eq } from "drizzle-orm";
 
 export function registerRoutes(app: Express): Server {
   // Health check endpoint
